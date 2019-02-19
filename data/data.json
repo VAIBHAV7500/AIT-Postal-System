@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0",
+        "Name": "Vaibhav Solanki",
+        "Branch": "Comp",
+        "reg": 16224,
+        "email": "vbhvsolanki7500@gmail.com"
+    },
+    {
+        "id": "1",
+        "Name": "Raman",
+        "Branch": "Comp",
+        "reg": 16222,
+        "email": "vbhvsolanki7500@gmail.com"
+    },
+    {
+        "id": "2",
+        "Name": "Vansh",
+        "Branch": "Comp",
+        "reg": 18064,
+        "email": "sethvanshraj@yahoo.in"
+    },
+    {
+        "id": "3",
+        "Name": "Keshav",
+        "Branch": "Comp",
+        "reg": 16220,
+        "email": "vbhvsolanki7500@gmail.com"
+    }
+]
